@@ -13,6 +13,15 @@ git clone https://github.com/asthtls/crawling_it_news.git
 cd crawling_it_news
 pip install -r requirements.txt
 ```
+
+실행 명령어 naver_news:네이버, it_news:다음
+```bash
+cd crawling_naver_news
+cd it_news
+
+scrapy crawl it_news -o results.json
+```
+
  
 
 ## **🖥 사용 기술**
