@@ -12,7 +12,7 @@ Python과 Scrapy 활용한 네이버&amp;다음 IT 기사 크롤링
 git clone https://github.com/asthtls/crawling_it_news.git
 cd crawling_it_news
 pip install -r requirements.txt
-
+'''
  
 
 ## **🖥 사용 기술**
