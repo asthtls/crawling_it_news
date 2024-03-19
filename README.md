@@ -5,6 +5,14 @@ Python과 Scrapy 활용한 네이버&amp;다음 IT 기사 크롤링
 
 이 프로젝트는 네이버와 다음의 IT 뉴스 섹션에서 최신 기사를 자동으로 크롤링하여, 실시간으로 대기질 관련 정보를 모델링하고 분석하는 시스템을 개발하는 것을 목표로 합니다. 이 시스템은 최신 IT 트렌드와 기술 발전에 대한 정보를 신속하게 수집하고 분석하여, 사용자에게 가치 있는 인사이트를 제공하고자 합니다.
 
+
+이 프로젝트를 사용하기 위한 설치 방법은 다음과 같습니다:
+
+```bash
+git clone https://github.com/asthtls/crawling_it_news.git
+cd crawling_it_news
+pip install -r requirements.txt
+
  
 
 ## **🖥 사용 기술**
